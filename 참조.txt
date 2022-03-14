@@ -1,0 +1,11 @@
+https://bipes.net.br/aroca/web-serial-terminal/
+
+https://developer.mozilla.org/en-US/docs/Web/API/SerialPort#reading_data_from_a_port
+
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API
+
+https://github.com/svendahlstrand/web-serial-api
+
+chrome://device-log/
+
+https://web.dev/serial/
